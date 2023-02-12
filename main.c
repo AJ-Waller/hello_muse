@@ -6,4 +6,5 @@ int main() {
     char * printme = text;
     printf("%s\n",printme);
     return 0;
+    asdf
 }
